@@ -1,0 +1,14 @@
+.article{
+    border: 10px solid rgb(184, 24, 24);
+    background-color: gray;
+margin: 20px;
+box-shadow: 20px 20px 30px;
+border-radius: 30px;
+}
+.header{
+    height: 500px;
+    background-color: chartreuse;
+    background-image: url('ayons.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
