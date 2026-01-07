@@ -1,0 +1,23 @@
+.highlight{
+color: aqua;
+background-color: cornflowerblue;
+border-radius: 20px;
+box-shadow: 2px 5px 7px;
+/*display: inline;*/
+
+
+}
+h2{
+text-decoration: underline;
+
+
+
+
+}
+#border{
+background-color: rgb(3, 56, 3);
+height: 1500px;
+background-image: url('ayon.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+}
